@@ -62,7 +62,7 @@ const defaultRules: Rule[] = [
   // Medical code 2400
   {
     deduction: "2400",
-    empAmount: "65-65.5",
+    empAmount: "30-30.1",
     carrier: "AETN",
     coverage: "1",
     level: "1",
@@ -70,7 +70,7 @@ const defaultRules: Rule[] = [
   },
   {
     deduction: "2400",
-    empAmount: "299-299.5",
+    empAmount: "138-138.1",
     carrier: "AETN",
     coverage: "10",
     level: "1",
@@ -78,7 +78,7 @@ const defaultRules: Rule[] = [
   },
   {
     deduction: "2400",
-    empAmount: "494-494.5",
+    empAmount: "228-228.1",
     carrier: "AETN",
     coverage: "2",
     level: "1",
@@ -86,7 +86,7 @@ const defaultRules: Rule[] = [
   },
   {
     deduction: "2400",
-    empAmount: "645.67-645.5",
+    empAmount: "298-298.1",
     carrier: "AETN",
     coverage: "3",
     level: "1",
@@ -94,7 +94,7 @@ const defaultRules: Rule[] = [
   },
   {
     deduction: "2400",
-    empAmount: "992.33-992.5",
+    empAmount: "458-458.1",
     carrier: "AETN",
     coverage: "4",
     level: "1",
@@ -102,7 +102,7 @@ const defaultRules: Rule[] = [
   },
   {
     deduction: "2400",
-    empAmount: "125.67-125.8",
+    empAmount: "58-58.1",
     carrier: "AETN",
     coverage: "90",
     level: "1",
@@ -110,7 +110,7 @@ const defaultRules: Rule[] = [
   },
   {
     deduction: "2400",
-    empAmount: "368.33-368.5",
+    empAmount: "170-170.1",
     carrier: "AETN",
     coverage: "94",
     level: "1",
@@ -118,7 +118,7 @@ const defaultRules: Rule[] = [
   },
   {
     deduction: "2400",
-    empAmount: "563.33-563.5",
+    empAmount: "260-260.1",
     carrier: "AETN",
     coverage: "91",
     level: "1",
@@ -126,7 +126,7 @@ const defaultRules: Rule[] = [
   },
   {
     deduction: "2400",
-    empAmount: "715-715.5",
+    empAmount: "330-330.1",
     carrier: "AETN",
     coverage: "92",
     level: "1",
@@ -134,7 +134,7 @@ const defaultRules: Rule[] = [
   },
   {
     deduction: "2400",
-    empAmount: "1061.67-1061.8",
+    empAmount: "490-490.1",
     carrier: "AETN",
     coverage: "93",
     level: "1",
@@ -151,7 +151,7 @@ const defaultRules: Rule[] = [
   },
   {
     deduction: "2401",
-    empAmount: "199.33-199.5",
+    empAmount: "92-92.1",
     carrier: "AETN",
     coverage: "10",
     level: "1",
@@ -159,7 +159,7 @@ const defaultRules: Rule[] = [
   },
   {
     deduction: "2401",
-    empAmount: "264.33-264.5",
+    empAmount: "122-122.1",
     carrier: "AETN",
     coverage: "2",
     level: "1",
@@ -167,7 +167,7 @@ const defaultRules: Rule[] = [
   },
   {
     deduction: "2401",
-    empAmount: "351-351.1",
+    empAmount: "162-162.1",
     carrier: "AETN",
     coverage: "3",
     level: "1",
@@ -175,7 +175,7 @@ const defaultRules: Rule[] = [
   },
   {
     deduction: "2401",
-    empAmount: "567.67-567.8",
+    empAmount: "262-262.1",
     carrier: "AETN",
     coverage: "4",
     level: "1",
@@ -183,7 +183,7 @@ const defaultRules: Rule[] = [
   },
   {
     deduction: "2401",
-    empAmount: "60.67-60.8",
+    empAmount: "28-28.1",
     carrier: "AETN",
     coverage: "90",
     level: "1",
@@ -191,7 +191,7 @@ const defaultRules: Rule[] = [
   },
   {
     deduction: "2401",
-    empAmount: "260-260.1",
+    empAmount: "120-120.1",
     carrier: "AETN",
     coverage: "94",
     level: "1",
@@ -199,7 +199,7 @@ const defaultRules: Rule[] = [
   },
   {
     deduction: "2401",
-    empAmount: "325-325.1",
+    empAmount: "150-150.1",
     carrier: "AETN",
     coverage: "91",
     level: "1",
@@ -207,7 +207,7 @@ const defaultRules: Rule[] = [
   },
   {
     deduction: "2401",
-    empAmount: "411.67-411.8",
+    empAmount: "190-190.1",
     carrier: "AETN",
     coverage: "92",
     level: "1",
@@ -215,7 +215,7 @@ const defaultRules: Rule[] = [
   },
   {
     deduction: "2401",
-    empAmount: "628.33-628.5",
+    empAmount: "290-290.1",
     carrier: "AETN",
     coverage: "93",
     level: "1",
@@ -224,7 +224,7 @@ const defaultRules: Rule[] = [
   // Dental code 2410
   {
     deduction: "2410",
-    empAmount: "33.5-33.59",
+    empAmount: "15.4-15.6",
     carrier: "AMER",
     coverage: "5",
     level: "1",
@@ -232,7 +232,7 @@ const defaultRules: Rule[] = [
   },
   {
     deduction: "2410",
-    empAmount: "72.5-72.59",
+    empAmount: "33.4-33.6",
     carrier: "AMER",
     coverage: "6",
     level: "1",
@@ -240,7 +240,7 @@ const defaultRules: Rule[] = [
   },
   {
     deduction: "2410",
-    empAmount: "112.6-112.69",
+    empAmount: "51.9-52.1",
     carrier: "AMER",
     coverage: "7",
     level: "1",
@@ -249,7 +249,7 @@ const defaultRules: Rule[] = [
   // Vision code 2411
   {
     deduction: "2411",
-    empAmount: "6.7-6.79",
+    empAmount: "3.1-3.2",
     carrier: "STAN",
     coverage: "70",
     level: "1",
@@ -257,7 +257,7 @@ const defaultRules: Rule[] = [
   },
   {
     deduction: "2411",
-    empAmount: "13.1-13.19",
+    empAmount: "6-6.1",
     carrier: "STAN",
     coverage: "71",
     level: "1",
@@ -265,7 +265,7 @@ const defaultRules: Rule[] = [
   },
   {
     deduction: "2411",
-    empAmount: "13.4-13.49",
+    empAmount: "6.2-6.3",
     carrier: "STAN",
     coverage: "72",
     level: "1",
@@ -273,7 +273,7 @@ const defaultRules: Rule[] = [
   },
   {
     deduction: "2411",
-    empAmount: "20-20.05",
+    empAmount: "9.2-9.3",
     carrier: "STAN",
     coverage: "73",
     level: "1",
@@ -427,10 +427,6 @@ const SelerixProcessor = () => {
     []
   );
 
-  // Add utility function to convert bi-weekly to monthly amount
-  const convertBiWeeklyToMonthly = (biWeeklyAmount: number): number => {
-    return biWeeklyAmount * (26 / 12); // Multiply by 26/12 to convert bi-weekly to monthly
-  };
   // Processes the CSV data using the defined rules
   // Validates all rules before processing
   const processData = useCallback(() => {
@@ -454,25 +450,14 @@ const SelerixProcessor = () => {
 
       // Process each row according to matching rules
       const processed = csvData.map((row) => {
-        // Create new row maintaining order of properties
-        const newRow = Object.keys(row).reduce((acc, key) => {
-          // If it's the amount column, rename it and set monthly value
-          if (key === "Empe Amt/Pct") {
-            const biWeeklyAmount = parseFloat(row[key]);
-            const monthlyAmount = convertBiWeeklyToMonthly(biWeeklyAmount);
-            acc["Empe Amt/Pct Montly"] = monthlyAmount.toFixed(2);
-          } else {
-            acc[key] = row[key];
-          }
-          return acc;
-        }, {} as typeof row);
+        const newRow = { ...row };
+        const rowAmount = parseFloat(row["Empe Amt/Pct"]);
 
-        // Find matching rule using the monthly amount for comparison
-        const monthlyAmount = parseFloat(newRow["Empe Amt/Pct Montly"]);
+        // Find the first matching rule based on deduction code and amount
         const matchingRule = rules.find(
           (rule) =>
             rule.deduction === row.Deduction &&
-            isWithinRange(monthlyAmount, rule.empAmount)
+            isWithinRange(rowAmount, rule.empAmount)
         );
 
         // Apply matching rule to populate health insurance fields
